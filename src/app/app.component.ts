@@ -11,7 +11,7 @@ import { Settings } from '../providers/providers';
   template: `<ion-menu [content]="content">
     <ion-header>
       <ion-toolbar>
-        <ion-title>Pages</ion-title>
+        <ion-title>Pagesss</ion-title>
       </ion-toolbar>
     </ion-header>
 
@@ -52,6 +52,7 @@ export class MyApp {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
     });
+    
     this.initTranslate();
   }
 
